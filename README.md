@@ -1,3 +1,3 @@
 # e-Cerealista
 
-Sistema para emissao de NF-e, CT-e e MDF-e.
+Sistema para controle de estoque e emissão de NF-e, CT-e e MDF-e.
